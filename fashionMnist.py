@@ -1,4 +1,4 @@
-#fashion mnist dataset. Created in Google Colab where I have just copy pasted it from.
+#fashion mnist dataset https://github.com/zalandoresearch/fashion-mnist 
 import tensorflow as tf
 from tensorflow.keras.datasets import fashion_mnist
 import matplotlib.pyplot as plt
